@@ -1,5 +1,6 @@
 body{
-     background-color:white;
+     background-color:pink;
+     border:4px;
 }
 p{
   color:green;
@@ -15,6 +16,9 @@ h3{
 }
 ul{
    list-style-type:lower-roman;
-   color:yellow;
+   color:red;
    font-family:"Iskoola Pota";
+}
+hr{
+   colour:blue;
 }
